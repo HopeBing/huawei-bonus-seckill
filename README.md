@@ -6,7 +6,7 @@
 安装并
 下载脚本后 在脚本当前文件夹打开cmd
 执行 npm i
-npm i 会帮你下载模块 
+下载模块 
 
 准备工作 打开码豆商城并登陆 https://devcloud.huaweicloud.com/bonususer/home/costbonus?from_region=undefined
 点击f12 打开调试工具 切换到network
